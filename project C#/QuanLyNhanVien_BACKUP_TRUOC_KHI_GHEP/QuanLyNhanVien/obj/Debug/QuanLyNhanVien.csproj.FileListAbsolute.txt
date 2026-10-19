@@ -1,0 +1,10 @@
+D:\code\app1\WinFormsApp1\project\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.AssemblyReference.cache
+D:\code\app1\WinFormsApp1\project\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.FrmNhanVien.resources
+D:\code\app1\WinFormsApp1\project\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Properties.Resources.resources
+D:\code\app1\WinFormsApp1\project\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.GenerateResource.cache
+D:\code\app1\WinFormsApp1\project\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+D:\code\app1\WinFormsApp1\project\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+D:\code\app1\WinFormsApp1\project\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+D:\code\app1\WinFormsApp1\project\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+D:\code\app1\WinFormsApp1\project\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+D:\code\app1\WinFormsApp1\project\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb
