@@ -1,2 +1,2 @@
 # quan-ly-nhan-su
-quan ly nhan su
+đjt mẹ thằng chí
